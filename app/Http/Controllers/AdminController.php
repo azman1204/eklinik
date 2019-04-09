@@ -12,6 +12,11 @@ class AdminController extends Controller {
         return view('admin.zone'); 
     }
 
+    // show zone form
+    public function zoneform() {
+        return view('admin.zoneform'); 
+    }
+
     // list senarai had tuntutan
     public function claim() {
         return view('admin.claim'); 

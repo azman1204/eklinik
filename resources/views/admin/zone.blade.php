@@ -5,7 +5,7 @@ Zon IKM
 @endsection
 
 @section('content')
-<a href="#" class="btn btn-success btn-sm">+ Tambah</a>
+<a href="{{ url('admin/zone/form') }}" class="btn btn-success btn-sm">+ Tambah</a>
 <table class="table table-striped">
     <thead>
         <tr>
