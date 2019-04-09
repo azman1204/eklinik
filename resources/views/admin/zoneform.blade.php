@@ -19,5 +19,5 @@ Zon IKM
         <div class="col-md-2"></div>
         <div class="col-md-10"><input type="submit" class="btn btn-primary"></div>
     </div>
-</div>
+</div> 
 @endsection
